@@ -19,6 +19,9 @@
 # Fortran module files
 *.mod
 
+# Blender backup files
+*.blend1
+
 # Compiled Static libraries
 *.lai
 *.la
