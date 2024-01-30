@@ -2640,3 +2640,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.30-16.58.28:019][ 30]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{50754291-077c-4973-aad7-6e70fa8d3587}, Name=Q24i-10 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=176.47
 [2024.01.30-16.58.28:019][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.01.30-16.58.28:025][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.30-17.32.25:479][322]LogDerivedDataCache: C:/Users/rutvi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.021 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 308 files in 572 folders with total size 1 MiB.
+[2024.01.30-18.06.07:331][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.30-18.06.07:544][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.01.30-18.06.07:605][433]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2024.01.30-18.06.07:607][433]LogSavePackage: Moving '../../../../../../School/CS415_SP24/InfiniteMatrix/Saved/TutorialMap9D8A8359409926010F7E4F9B0CD6A44E.tmp' to '../../../../../../School/CS415_SP24/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2024.01.30-18.06.07:634][433]LogFileHelpers: Saving map 'TutorialMap' took 0.234
+[2024.01.30-18.06.07:639][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 1.35 sec)
+[2024.01.30-18.06.07:817][433]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.30-18.06.07:817][433]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2024.01.30-18.06.07:818][433]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
