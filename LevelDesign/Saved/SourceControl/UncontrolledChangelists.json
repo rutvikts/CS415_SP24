@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/BlockGame/Maps/LevelDesign.umap",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/UI/HealthBarWidget.uasset",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/UI/EmptyHealthBar.uasset",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/UI/FullHealthBar.uasset",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_A.uasset",
+				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset"
+			]
+		}
+	]
+}
