@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/School/CS415_SP24/LevelDesign/Content/BlockGame/Maps/LevelDesign.umap",
+				"C:/School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Pursuer.uasset",
+				"C:/School/CS415_SP24/LevelDesign/Content/LearningKit_Robots/Audio/action-music-loop-with-dark-ambient-drones.uasset",
+				"C:/School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/School/CS415_SP24/LevelDesign/Content/LearningKit_Robots/StaticMeshes/Mortar/Old_mortar.uasset",
+				"C:/School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_MortarProjectile.uasset",
+				"C:/School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/BP_Mortar.uasset",
 				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/BlockGame/Maps/LevelDesign.umap",
 				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/UI/HealthBarWidget.uasset",
 				"/Users/rutviksayankar/Repos/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
