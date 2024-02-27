@@ -9789,3 +9789,134 @@ Make sure 'BP_LearningKit_PlayerCharacter_C' has been compiled for  Get Player R
 [2024.02.27-18.21.50:837][443]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2024.02.27-18.21.52:669][449]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
 [2024.02.27-18.21.52:837][449]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.21.54:683][455]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.21.54:838][455]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.21.56:699][461]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.21.56:838][461]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.21.58:615][467]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.21.58:837][467]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.00:631][473]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.00:839][473]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.02:645][479]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.02:838][479]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.04:659][502]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.04:665][502]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.06:676][717]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.06:682][717]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.08:692][898]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.08:700][898]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.09:892][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.02.27-18.22.09:957][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlockGame/Maps/LevelDesign_Auto8
+[2024.02.27-18.22.09:957][ 11]LogSavePackage: Moving '../../../../../../School/CS415_SP24/LevelDesign/Saved/LevelDesign_Auto89351F1A5449B4B411F5B809114073CAF.tmp' to '../../../../../../School/CS415_SP24/LevelDesign/Saved/Autosaves/Game/BlockGame/Maps/LevelDesign_Auto8.umap'
+[2024.02.27-18.22.09:964][ 11]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BlockGame/Maps/LevelDesign' took 0.089
+[2024.02.27-18.22.09:964][ 11]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2024.02.27-18.22.09:964][ 11]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/UI/WinWidget] ([2] browsable assets)...
+[2024.02.27-18.22.09:966][ 11]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LearningKit_Games/Blueprints/UI/WinWidget.WinWidget]
+[2024.02.27-18.22.09:966][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/UI/WinWidget]
+[2024.02.27-18.22.09:970][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/UI/WinWidget_Auto8
+[2024.02.27-18.22.09:970][ 11]LogSavePackage: Moving '../../../../../../School/CS415_SP24/LevelDesign/Saved/WinWidget_Auto8C6B9958C4171A62A78802398C9C1F13F.tmp' to '../../../../../../School/CS415_SP24/LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/UI/WinWidget_Auto8.uasset'
+[2024.02.27-18.22.09:971][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/UI/Restart-PNG-Pic] ([1] browsable assets)...
+[2024.02.27-18.22.09:971][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/UI/Restart-PNG-Pic]
+[2024.02.27-18.22.09:973][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/UI/Restart-PNG-Pic_Auto8
+[2024.02.27-18.22.09:973][ 11]LogSavePackage: Moving '../../../../../../School/CS415_SP24/LevelDesign/Saved/Restart-PNG-Pic_Auto8173CFB5E423E62D8E5D238878A91D55A.tmp' to '../../../../../../School/CS415_SP24/LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/UI/Restart-PNG-Pic_Auto8.uasset'
+[2024.02.27-18.22.09:973][ 11]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/UI/GameOver] ([1] browsable assets)...
+[2024.02.27-18.22.09:975][ 11]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LearningKit_Games/Blueprints/UI/GameOver.GameOver]
+[2024.02.27-18.22.09:975][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/UI/GameOver]
+[2024.02.27-18.22.09:976][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/UI/GameOver_Auto8
+[2024.02.27-18.22.09:976][ 11]LogSavePackage: Moving '../../../../../../School/CS415_SP24/LevelDesign/Saved/GameOver_Auto8220DB4984CF0C54D8C6C309F066452F8.tmp' to '../../../../../../School/CS415_SP24/LevelDesign/Saved/Autosaves/Game/LearningKit_Games/Blueprints/UI/GameOver_Auto8.uasset'
+[2024.02.27-18.22.09:977][ 11]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.02.27-18.22.10:708][ 68]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.10:713][ 68]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.12:724][257]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.12:729][257]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.14:740][449]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.14:745][449]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.16:754][643]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.16:760][643]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.18:771][837]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.18:776][837]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.20:787][ 30]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.20:792][ 30]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.22:803][221]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.22:809][221]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.24:920][291]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.25:104][291]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.26:936][297]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.27:104][297]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.28:951][303]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.29:105][303]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.30:966][309]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.31:105][309]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.32:981][315]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.33:105][315]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.34:896][321]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.35:105][321]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.36:912][327]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.37:105][327]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.38:928][333]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.39:106][333]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.40:943][339]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.41:106][339]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.42:957][345]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.43:107][345]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.44:974][351]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.45:107][351]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.46:890][357]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.47:107][357]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.48:905][363]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.49:107][363]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.50:921][369]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.51:107][369]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.52:936][375]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.53:107][375]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.54:948][381]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.55:106][381]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.56:965][574]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.56:971][574]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.22.58:180][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.27-18.22.58:226][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LearningKit_Games/Blueprints/UI/WinWidget" FILE="../../../../../../School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/UI/WinWidget.uasset" SILENT=true
+[2024.02.27-18.22.58:230][718]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/UI/WinWidget
+[2024.02.27-18.22.58:230][718]LogSavePackage: Moving '../../../../../../School/CS415_SP24/LevelDesign/Saved/WinWidgetF1738419496CA855CA67FEA1EE9A0D15.tmp' to '../../../../../../School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/UI/WinWidget.uasset'
+[2024.02.27-18.22.58:236][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.75 sec)
+[2024.02.27-18.22.58:240][718]AssetCheck: New page: Asset Save: WinWidget
+[2024.02.27-18.22.58:241][718]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/LearningKit_Games/Blueprints/UI/WinWidget.WinWidget
+[2024.02.27-18.22.58:980][785]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.22.58:986][785]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.00:995][  1]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.01:006][  1]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.03:012][215]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.03:019][215]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.04:927][429]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.04:932][429]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.06:629][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.27-18.23.06:714][618]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP
+[2024.02.27-18.23.06:714][618]LogSavePackage: Moving '../../../../../../School/CS415_SP24/LevelDesign/Saved/Collectable_Pickup_BP8EBB8D54436208B3727485BEF597E47A.tmp' to '../../../../../../School/CS415_SP24/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset'
+[2024.02.27-18.23.06:722][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.85 sec)
+[2024.02.27-18.23.06:725][618]AssetCheck: New page: Asset Save: Collectable_Pickup_BP
+[2024.02.27-18.23.06:725][618]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP
+[2024.02.27-18.23.06:941][630]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.06:947][630]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.08:957][855]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.08:962][855]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.11:274][991]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.11:409][991]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.13:287][997]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.13:410][997]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.15:201][  3]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.15:411][  3]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.17:216][  9]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.17:413][  9]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.19:234][ 15]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.19:414][ 15]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.21:249][ 21]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.21:414][ 21]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.23:266][ 27]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.23:414][ 27]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.25:281][ 33]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.25:415][ 33]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.27:197][ 39]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.27:417][ 39]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.29:211][ 45]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.29:418][ 45]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.27-18.23.31:228][ 51]LogUdpMessaging: Display: Added local interface '153.33.185.147' to multicast group '230.0.0.1:6666'
+[2024.02.27-18.23.31:419][ 51]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
